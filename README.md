@@ -100,11 +100,11 @@ $ npm run test
 <h2>📄 Licença</h2>
 
 <p>
-    Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo <a href="license.md">LICENSE</a>.
+    Este projeto está sob a licença MIT. Para mais detalhes, veja o arquivo <a href="LICENSE.md">LICENSE</a>.
 </p>
 
 ---
 
 <h4 align="center">
-    Feito com 💙 by <a href="">Guilherme Gregory</a>.
+    Feito com 💙 by <a href="https://www.linkedin.com/in/guilherme-gregory-3873b1171/">Guilherme Gregory</a>.
 </h4>
